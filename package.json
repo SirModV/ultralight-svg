@@ -1,0 +1,22 @@
+{
+  "name": "mod10",
+  "version": "1.0.0",
+  "description": "SVG macker",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
